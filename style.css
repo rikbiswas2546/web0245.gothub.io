@@ -25,11 +25,13 @@
 .pfp{
     border-radius: 50%;
     height: 100px;
+    box-shadow: 6px 5px 20px 2px black;
 
 }
 h1{
     text-align: center;
     font-family: 'Bebas Neue', sans-serif;
+    text-shadow: 12px 7px 16px black;
 }
 .you{
     color: rgb(0, 34, 255);
@@ -78,6 +80,7 @@ p{
     font-size: 3rem;
     color: black;
     margin: 2rem;
+    text-shadow: 15px 8px 20px black;
 }
 
 @media (min-width: 319px) and (max-width: 480px){
