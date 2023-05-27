@@ -82,7 +82,7 @@ p{
 
 @media (min-width: 319px) and (max-width: 480px){
     . contact{
-        padding-top: 3rem;
+        padding-top: 2rem;
         }
     .contact i{
         font-size: 2.5rem;
