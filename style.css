@@ -93,8 +93,8 @@ p{
 }
 
 @media (min-width: 319px) and (max-width: 480px){
-    . contact{
-        padding-top: 2rem;
+    .contact{
+        padding-top: 1.6rem;
         }
     .contact i{
         font-size: 2.5rem;
